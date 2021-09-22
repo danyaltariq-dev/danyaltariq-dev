@@ -58,3 +58,5 @@
 <div align="center">
   <sub>© Danyal Tariq — Software Craftsman</sub>
 </div>
+
+<!-- Last verified: 2021 -->
