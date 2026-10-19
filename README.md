@@ -47,11 +47,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyaltariq-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danyaltariq-dev&theme=radical&hide_border=true" alt="Streak Stats" />
-</div>
 
 ---
 
